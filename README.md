@@ -4,7 +4,7 @@
 
 1. You can find my Tech Blog at [yusei-wy.github.io](https://yusei-wy.github.io/)
 
-1. You can find my Zenn Blog [here](https://zenn.dev/manase)
+1. You can find my Zenn Blog [here](https://zenn.dev/yusei_wy)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yusei-wy&show_icons=true&locale=en&layout=compact&theme=dark)
 
